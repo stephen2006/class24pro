@@ -1,1 +1,1 @@
-# class24pro
+# Box Class
